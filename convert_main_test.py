@@ -1,4 +1,4 @@
-from convert_main import *
+from convert import *
 import pytest
 
 def test_cm():
